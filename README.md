@@ -15,6 +15,17 @@ Entusiasta de Tecnologia focado em **Cloud Computing (AWS)**, **Administração 
 * **Sistemas & Automação:** Linux (Bash), PowerShell, Shell Scripting.
 * **Nuvem & Redes:** AWS (VPC, EC2, IAM, S3, Internet Gateways).
 * **Controle de Versão:** Git, GitHub.
+* ### 🛠️ Tecnologias & Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
