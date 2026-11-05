@@ -20,7 +20,9 @@ Entusiasta de Tecnologia focado em **Cloud Computing (AWS)**, **Administração 
 
 ## 📂 Projetos em Destaque
 * 🚀 **[aws-linux-automation-lab](https://github.com/isaiasbenig07-tech/aws-linux-automation-lab)**:** Scripts Bash para monitoramento de sistema e documentação técnica de laboratórios de rede AWS.
-
+  
+* 📡 **[linux-service-monitor](https://github.com/isaiasbenig07-tech/linux-service-monitor):** Script em Bash para testes automáticos de conectividade e rede no Linux
+  
 ---
 
 📫 **Vamos nos conectar:**
