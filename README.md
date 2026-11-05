@@ -22,6 +22,7 @@ Entusiasta de Tecnologia focado em **Cloud Computing (AWS)**, **Administração 
 * 🚀 **[aws-linux-automation-lab](https://github.com/isaiasbenig07-tech/aws-linux-automation-lab)**:** Scripts Bash para monitoramento de sistema e documentação técnica de laboratórios de rede AWS.
 * 📡 **[linux-service-monitor](https://github.com/isaiasbenig07-tech/linux-service-monitor):** Script em Bash para testes automáticos de conectividade e rede no Linux
 * 🗄️ **[db-transactions-lab](https://github.com/isaiasbenig07-tech/db-transactions-lab):** Laboratório de transações SQL (ACID, COMMIT/ROLLBACK) e design normalizado de bases de dados.
+* 🐍 **[sysadmin-python-automation](https://github.com/isaiasbenig07-tech/sysadmin-python-automation):** Scripts de automação em Python para SysAdmin, abrangendo gestão de utilizadores e manutenção de pacotes Linux.
   
 ---
 
