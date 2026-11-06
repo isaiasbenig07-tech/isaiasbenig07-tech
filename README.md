@@ -1,6 +1,8 @@
-# Olá, sou o Isaías Oliveira! 👋
+## Olá, sou o Isaías Oliveira! 👋
 
-Entusiasta de Tecnologia focado em **Cloud Computing (AWS)**, **Administração de Sistemas Linux** e **Automação de Infraestrutura**.
+Estudante de Tecnologia da Informação, com foco em Cloud Computing (AWS), Administração de Sistemas Linux e Automação de Infraestrutura.
+
+Desenvolvendo projetos práticos em Bash, Python e AWS, aplicando conhecimentos em infraestrutura, redes e soluções em nuvem.
 
 ---
 
