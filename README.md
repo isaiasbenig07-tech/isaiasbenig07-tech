@@ -38,13 +38,14 @@ Desenvolvendo projetos práticos com Python e serviços AWS, explorando arquitet
 ---
 
 ## 📂 Projetos em Destaque
-* 🚀 **[aws-linux-automation-lab](https://github.com/isaiasbenig07-tech/aws-linux-automation-lab)**:** Scripts Bash para monitoramento de sistema e documentação técnica de laboratórios de rede AWS.
-* 📡 **[linux-service-monitor](https://github.com/isaiasbenig07-tech/linux-service-monitor):** Script em Bash para testes automáticos de conectividade e rede no Linux
+
+* 🚀 **[aws-linux-automation-lab](https://github.com/isaiasbenig07-tech/aws-linux-automation-lab):** Scripts Bash para monitoramento de sistema e documentação técnica de laboratórios de rede AWS.
+* 📡 **[linux-service-monitor](https://github.com/isaiasbenig07-tech/linux-service-monitor):** Script em Bash para testes automáticos de conectividade e rede no Linux.
 * 🗄️ **[db-transactions-lab](https://github.com/isaiasbenig07-tech/db-transactions-lab):** Laboratório de transações SQL (ACID, COMMIT/ROLLBACK) e design normalizado de bases de dados.
-* 🐍 **[sysadmin-python-automation](https://github.com/isaiasbenig07-tech/sysadmin-python-automation):** Scripts de automação em Python para SysAdmin, abrangendo gestão de utilizadores e manutenção de pacotes Linux.
-  
+* 🐍 **[sysadmin-python-automation](https://github.com/isaiasbenig07-tech/sysadmin-python-automation):** Scripts de automação em Python para SysAdmin, abrangendo gerenciamento de usuários e manutenção de pacotes Linux.
+
 ---
 
 📫 **Vamos nos conectar:**
-* LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/isaiasoliveirasp)
+* 💼 LinkedIn: [Isaías Oliveira](https://www.linkedin.com/in/isaiasoliveirasp)
 
