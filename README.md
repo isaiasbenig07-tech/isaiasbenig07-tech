@@ -1,29 +1,36 @@
 ## Olá, sou o Isaías Oliveira! 👋
 
-Estudante de Tecnologia da Informação, com foco em Cloud Computing (AWS), Administração de Sistemas Linux e Automação de Infraestrutura.
+Estudante de Tecnologia da Informação, com foco em Cloud Computing (AWS) e desenvolvimento de aplicações em nuvem.
 
-Desenvolvendo projetos práticos com Bash, Python e AWS, fortalecendo conhecimentos em administração Linux, redes, automação de infraestrutura e computação em nuvem.
+Desenvolvendo projetos práticos com Python e serviços AWS, explorando arquitetura Serverless, integração de APIs, automação e soluções escaláveis na nuvem.
 
 ---
 
 ## 🎯 Sobre Mim
-* 🔭 Atualmente desenvolvendo scripts de automação em Bash e documentando labs de arquitetura em nuvem.
-* 🎓 Em constante aprendizado de AWS, Redes, Linux e ferramentas de DevOps.
-* ⚡ Interesses: Infraestrutura como Código, Segurança de Redes e Soluções Cloud.
+
+- ☁️ Desenvolvendo projetos práticos com serviços AWS e aplicações em Python.
+- 🎓 Em constante aprendizado sobre desenvolvimento Cloud, arquitetura Serverless e integração de APIs.
+- 🚀 Explorando serviços como AWS Lambda, API Gateway, S3, DynamoDB e IAM.
+- 🎯 Objetivo: conquistar a certificação AWS Certified Developer – Associate (DVA-C02) e evoluir como desenvolvedor Cloud.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-* **Sistemas & Automação:** Linux (Bash), PowerShell, Shell Scripting.
-* **Nuvem & Redes:** AWS (VPC, EC2, IAM, S3, Internet Gateways).
-* **Controle de Versão:** Git, GitHub.
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+- **Cloud Computing:** AWS (Lambda, EC2, S3, IAM).
+- **Desenvolvimento:** Python, APIs e integração de serviços.
+- **Serverless:** AWS Lambda e API Gateway.
+- **Banco de Dados:** DynamoDB e SQL.
+- **Versionamento:** Git e GitHub.
+- **Automação:** Bash e PowerShell (conhecimentos complementares).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="API Gateway">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB">
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
