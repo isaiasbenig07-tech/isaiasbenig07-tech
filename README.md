@@ -2,7 +2,7 @@
 
 Estudante de Tecnologia da Informação, com foco em Cloud Computing (AWS), Administração de Sistemas Linux e Automação de Infraestrutura.
 
-Desenvolvendo projetos práticos em Bash, Python e AWS, aplicando conhecimentos em infraestrutura, redes e soluções em nuvem.
+Desenvolvendo projetos práticos com Bash, Python e AWS, fortalecendo conhecimentos em administração Linux, redes, automação de infraestrutura e computação em nuvem.
 
 ---
 
@@ -17,7 +17,6 @@ Desenvolvendo projetos práticos em Bash, Python e AWS, aplicando conhecimentos 
 * **Sistemas & Automação:** Linux (Bash), PowerShell, Shell Scripting.
 * **Nuvem & Redes:** AWS (VPC, EC2, IAM, S3, Internet Gateways).
 * **Controle de Versão:** Git, GitHub.
-* ### 🛠️ Tecnologias & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
