@@ -44,9 +44,8 @@ Desenvolvendo projetos práticos com Python e serviços AWS, explorando arquitet
 * 🗄️ **[db-transactions-lab](https://github.com/isaiasbenig07-tech/db-transactions-lab):** Laboratório de transações SQL (ACID, COMMIT/ROLLBACK) e design normalizado de bases de dados.
 * 🐍 **[sysadmin-python-automation](https://github.com/isaiasbenig07-tech/sysadmin-python-automation):** Scripts de automação em Python para SysAdmin, abrangendo gerenciamento de usuários e manutenção de pacotes Linux.
 * 🔒 **[system-hardening-lab](https://github.com/isaiasbenig07-tech/system-hardening-lab):** Laboratório de Cibersegurança focado em reforço de sistemas (Hardening), auditoria de serviços Linux e diretrizes defensivas.
+* 🗄️ [sql-database-lab](https://github.com/isaiasbenig07-tech/sql-database-lab) : Laboratório de consultas MySQL, agregação (`SUM`, `AVG`), manipulação de strings (`SUBSTRING_INDEX`) e tratamento de dados (`TRIM`, `LENGTH`).
 
-🔗 **[Laboratório de SQL (MySQL)](https://github.com/isaiasbenig07-tech/sql-database-lab)**  
-> Consultas MySQL, agregação (`SUM`, `AVG`), manipulação de strings (`SUBSTRING_INDEX`) e tratamento de dados (`TRIM`, `LENGTH`).
 
 ---
 
